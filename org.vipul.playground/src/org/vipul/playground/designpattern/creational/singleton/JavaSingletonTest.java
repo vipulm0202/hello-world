@@ -1,4 +1,4 @@
-package org.vipul.playground.designpattern.singleton;
+package org.vipul.playground.designpattern.creational.singleton;
 
 public class JavaSingletonTest {
 

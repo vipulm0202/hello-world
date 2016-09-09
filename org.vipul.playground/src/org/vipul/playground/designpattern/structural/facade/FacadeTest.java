@@ -1,4 +1,4 @@
-package org.vipul.playground.designpattern.facade;
+package org.vipul.playground.designpattern.structural.facade;
 
 public class FacadeTest {
 

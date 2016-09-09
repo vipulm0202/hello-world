@@ -1,6 +1,6 @@
-package org.vipul.playground.designpattern.observer;
+package org.vipul.playground.designpattern.behavioural.observer;
 
-import org.vipul.playground.designpattern.observer.MyModel.Person;
+import org.vipul.playground.designpattern.behavioural.observer.MyModel.Person;
 
 public class ObserverTest {
 

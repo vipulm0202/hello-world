@@ -1,4 +1,4 @@
-package org.vipul.playground.designpattern.observer;
+package org.vipul.playground.designpattern.behavioural.observer;
 
 import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
