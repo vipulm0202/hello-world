@@ -8,7 +8,7 @@ import java.util.List;
 public class MyModel {
 	public static final String FIRSTNAME = "firstName";
 	public static final String LASTNAME = "lastName";
-	
+	//something else
 	private List<Person> persons = new ArrayList<Person>();
 	private List<PropertyChangeListener> listener = new ArrayList<PropertyChangeListener>();
 
