@@ -20,6 +20,7 @@ public class MyModel {
 	      this.firstName = firstName;
 	      this.lastName = lastName;
 	      //push
+		    //push2
 	    }
 
 	    public String getFirstName() {
