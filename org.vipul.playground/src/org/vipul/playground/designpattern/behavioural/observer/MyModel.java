@@ -19,6 +19,7 @@ public class MyModel {
 	    public Person(String firstName, String lastName) {
 	      this.firstName = firstName;
 	      this.lastName = lastName;
+	      //push
 	    }
 
 	    public String getFirstName() {
