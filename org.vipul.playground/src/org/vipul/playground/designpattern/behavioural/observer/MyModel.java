@@ -20,7 +20,6 @@ public class MyModel {
 	      this.firstName = firstName;
 	      this.lastName = lastName;
 	      //push
-	      //lhdskjgh
 	    }
 
 	    public String getFirstName() {
@@ -43,6 +42,7 @@ public class MyModel {
 	          LASTNAME, 
 	          this.lastName, 
 	          this.lastName = lastName);
+	      //push local conflkict
 	    }
 	  }
 
